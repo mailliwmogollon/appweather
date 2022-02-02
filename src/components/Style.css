@@ -1,0 +1,13 @@
+.input-form {
+    border-radius: 25px;
+    line-height: 2;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    padding: 5px 42px 5px 10px;
+    width: 40%;
+    border: #3f37c9 solid 2px;
+  }
+
+  .input-form:focus {
+    outline: #3f37c9; 
+  }
