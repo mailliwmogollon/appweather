@@ -24,4 +24,4 @@ steps:
 - name: deploy the app
   run: npm run deploy
   env:
-   weather_token: ${{ secrets.weather_token }}
+   WEATHER_TOKEN: ${{ secrets.WEATHER_TOKEN }}
