@@ -11,7 +11,7 @@ import Container from '@mui/material/Container';
 
 
 export default function ViewWeather() {
-const url = "http://api.weatherbit.io/v2.0/current?"
+const url = "https://api.weatherbit.io/v2.0/current?"
 const apikey = "86bbe2bc02de49119ce7361d21846912"
 
 const [city, setCity] = useState("");
