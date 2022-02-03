@@ -45,9 +45,9 @@ const handleSubmit = async (event) => {
           </form>
             {weather.length !== 0 ? (
                     weather.data.map((item, index) => (
-                        <Container fixed>
+                        <Container fixed sx={{ justifyContent: 'center', display: 'flex', alignItems: 'center' }}>
                        
-                        <Card sx={{ maxWidth: 345 }} key={index}>
+                        <Card sx={{ maxWidth: 400, display: 'flex', alignItems: 'center' }} key={index}>
                         <Avatar
                         alt="icon"
                         src={`https://www.weatherbit.io/static/img/icons/${item.weather.icon}.png`}
