@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/appweather/static/css/main.7d44856e.css",
+    "main.js": "/appweather/static/js/main.963f5337.js",
+    "static/js/787.4b426b83.chunk.js": "/appweather/static/js/787.4b426b83.chunk.js",
+    "static/media/—Pngtree—sky sun atmosphere clouds background_280407.jpg": "/appweather/static/media/—Pngtree—sky sun atmosphere clouds background_280407.130f7b4b7de309788797.jpg",
+    "index.html": "/appweather/index.html",
+    "main.7d44856e.css.map": "/appweather/static/css/main.7d44856e.css.map",
+    "main.963f5337.js.map": "/appweather/static/js/main.963f5337.js.map",
+    "787.4b426b83.chunk.js.map": "/appweather/static/js/787.4b426b83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d44856e.css",
+    "static/js/main.963f5337.js"
+  ]
+}
